@@ -18,17 +18,14 @@ Title of the project:
 vehicule connecté au parking
 
 Description:
-.......................... 
-
-Objectif:
 appliquer le protocole MQTT
 
+Objectif:
+faire la connexion entre 2 cartes
+
 List of devices:
-kit vehicule
+kit vehicule(2 moteurs CC, L298D, alimentation(15V), Bouton On/Off, cables)
 carte esp8266
 carte arduino uno
-
-
-
 Installation and prepartion instrcutions: 
-..........................................
+MQTTx,MQQT Client
